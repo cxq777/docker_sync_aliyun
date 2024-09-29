@@ -1,4 +1,6 @@
 ubuntu:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu:latest
+
+# dify
 nginx:latest: registry.cn-beijing.aliyuncs.com/cxq/nginx:latest
 tensorchord/pgvecto-rs:pg16-v0.3.0: registry.cn-beijing.aliyuncs.com/cxq/tensorchord_pgvecto-rs:pg16-v0.3.0
 pgvector/pgvector:pg16: registry.cn-beijing.aliyuncs.com/cxq/pgvector_pgvector:pg16
@@ -23,4 +25,10 @@ docker.elastic.co/elasticsearch/elasticsearch:8.15.1: registry.cn-beijing.aliyun
 docker.elastic.co/kibana/kibana:8.15.1: registry.cn-beijing.aliyuncs.com/cxq/kibana:8.15.1
 downloads.unstructured.io/unstructured-io/unstructured-api:latest: registry.cn-beijing.aliyuncs.com/cxq/unstructured-io_unstructured-api:latest
 
+# xinference
 xprobe/xinference:v0.15.2: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v0.15.2
+
+# searchxng
+docker.io/library/caddy:2-alpine: registry.cn-beijing.aliyuncs.com/cxq/library_caddy:2-alpine
+docker.io/valkey/valkey:8-alpine: registry.cn-beijing.aliyuncs.com/cxq/valkey_valkey:8-alpine
+docker.io/searxng/searxng:2024.9.28-f95a5effc: registry.cn-beijing.aliyuncs.com/cxq/searxng:2024.9.28-f95a5effc
