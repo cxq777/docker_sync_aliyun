@@ -34,3 +34,5 @@ xprobe/xinference:v0.15.2: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinferenc
 docker.io/library/caddy:2-alpine: registry.cn-beijing.aliyuncs.com/cxq/library_caddy:2-alpine
 docker.io/valkey/valkey:8-alpine: registry.cn-beijing.aliyuncs.com/cxq/valkey_valkey:8-alpine
 docker.io/searxng/searxng:2024.9.28-f95a5effc: registry.cn-beijing.aliyuncs.com/cxq/searxng:2024.9.28-f95a5effc
+
+quay.io/minio/minio:RELEASE.2024-10-13T13-34-11Z: registry.cn-beijing.aliyuncs.com/cxq/minio:RELEASE.2024-10-13T13-34-11Z
