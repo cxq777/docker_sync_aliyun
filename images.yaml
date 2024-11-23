@@ -1,4 +1,6 @@
 ubuntu:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu:latest
+busybox:latest: registry.cn-beijing.aliyuncs.com/cxq/busybox:latest
+busybox:1: registry.cn-beijing.aliyuncs.com/cxq/busybox:1
 
 # dify
 langgenius/dify-api:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.8.3
