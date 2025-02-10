@@ -39,6 +39,9 @@ downloads.unstructured.io/unstructured-io/unstructured-api:latest: registry.cn-b
 xprobe/xinference:v1.0.1: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v1.0.1
 xprobe/xinference:v0.15.2: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v0.15.2
 
+# ollama
+ollama/ollama:0.5.7: registry.cn-beijing.aliyuncs.com/cxq/ollama:0.5.7
+
 # searchxng
 docker.io/library/caddy:2-alpine: registry.cn-beijing.aliyuncs.com/cxq/library_caddy:2-alpine
 docker.io/valkey/valkey:8-alpine: registry.cn-beijing.aliyuncs.com/cxq/valkey_valkey:8-alpine
