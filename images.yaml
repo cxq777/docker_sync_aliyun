@@ -52,3 +52,5 @@ docker.io/valkey/valkey:8-alpine: registry.cn-beijing.aliyuncs.com/cxq/valkey_va
 docker.io/searxng/searxng:2024.9.28-f95a5effc: registry.cn-beijing.aliyuncs.com/cxq/searxng:2024.9.28-f95a5effc
 
 quay.io/minio/minio:RELEASE.2024-10-13T13-34-11Z: registry.cn-beijing.aliyuncs.com/cxq/minio:RELEASE.2024-10-13T13-34-11Z
+
+nvcr.io/nvidia/k8s-device-plugin:0.17.0: registry.cn-beijing.aliyuncs.com/cxq/nvidia_k8s-device-plugin:0.17.0
