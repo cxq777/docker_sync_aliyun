@@ -21,6 +21,7 @@ semitechnologies/weaviate:1.19.0: registry.cn-beijing.aliyuncs.com/cxq/semitechn
 certbot/certbot:latest: registry.cn-beijing.aliyuncs.com/cxq/certbot_certbot:latest
 ubuntu/squid:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu_squid:latest
 langgenius/dify-sandbox:0.2.9: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.9
+langgenius/dify-sandbox:0.2.10: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.10
 postgres:15-alpine: registry.cn-beijing.aliyuncs.com/cxq/postgres:15-alpine
 redis:6-alpine: registry.cn-beijing.aliyuncs.com/cxq/redis:6-alpine
 ghcr.io/chroma-core/chroma:0.5.1: registry.cn-beijing.aliyuncs.com/cxq/chroma-core_chroma:0.5.1
