@@ -56,3 +56,6 @@ docker.io/searxng/searxng:2024.9.28-f95a5effc: registry.cn-beijing.aliyuncs.com/
 quay.io/minio/minio:RELEASE.2024-10-13T13-34-11Z: registry.cn-beijing.aliyuncs.com/cxq/minio:RELEASE.2024-10-13T13-34-11Z
 
 nvcr.io/nvidia/k8s-device-plugin:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/nvidia_k8s-device-plugin:v0.17.0
+
+# kubeasz
+easzlab/kubeasz:3.6.5: registry.cn-beijing.aliyuncs.com/cxq/easzlab_kubeasz:3.6.5
