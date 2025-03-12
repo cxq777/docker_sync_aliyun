@@ -59,3 +59,7 @@ nvcr.io/nvidia/k8s-device-plugin:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/n
 
 # kubeasz
 easzlab/kubeasz:3.6.5: registry.cn-beijing.aliyuncs.com/cxq/easzlab_kubeasz:3.6.5
+
+# es
+elasticsearch:6.8.14: registry.cn-beijing.aliyuncs.com/cxq/elasticsearch:6.8.14
+kibana:6.8.14: registry.cn-beijing.aliyuncs.com/cxq/kibana:6.8.14
