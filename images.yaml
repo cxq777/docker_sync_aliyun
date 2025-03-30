@@ -67,3 +67,6 @@ easzlab/kubeasz:3.6.5: registry.cn-beijing.aliyuncs.com/cxq/easzlab_kubeasz:3.6.
 # es
 elasticsearch:6.8.14: registry.cn-beijing.aliyuncs.com/cxq/elasticsearch:6.8.14
 kibana:6.8.14: registry.cn-beijing.aliyuncs.com/cxq/kibana:6.8.14
+
+# go
+golang:1.24.1-bookworm: registry.cn-beijing.aliyuncs.com/cxq/golang:1.24.1-bookworm
