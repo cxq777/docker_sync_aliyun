@@ -73,3 +73,6 @@ golang:1.24.1-bookworm: registry.cn-beijing.aliyuncs.com/cxq/golang:1.24.1-bookw
 
 # crawl4ai
 unclecode/crawl4ai:0.6.0-r2: registry.cn-beijing.aliyuncs.com/cxq/unclecode_crawl4ai:0.6.0-r2
+
+# cuda
+nvidia/cuda:12.1.0-base-ubuntu22.04: registry.cn-beijing.aliyuncs.com/cxq/cuda:12.1.0-base-ubuntu22.04
