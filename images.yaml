@@ -1,78 +1,79 @@
-ubuntu:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu:latest
-busybox:latest: registry.cn-beijing.aliyuncs.com/cxq/busybox:latest
-busybox:1: registry.cn-beijing.aliyuncs.com/cxq/busybox:1
-registry:2.8.3: registry.cn-beijing.aliyuncs.com/cxq/registry:2.8.3
+# ubuntu:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu:latest
+# busybox:latest: registry.cn-beijing.aliyuncs.com/cxq/busybox:latest
+# busybox:1: registry.cn-beijing.aliyuncs.com/cxq/busybox:1
+# registry:2.8.3: registry.cn-beijing.aliyuncs.com/cxq/registry:2.8.3
 
 #jenkins
 jenkins/inbound-agent:3283.v92c105e0f819-1: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3283.v92c105e0f819-1
 
 # dify
-langgenius/dify-api:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.8.3
-langgenius/dify-api:0.9.2: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.9.2
-langgenius/dify-api:0.11.0: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.11.0
-langgenius/dify-api:1.1.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:1.1.3
-langgenius/dify-web:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-web:0.8.3
-langgenius/dify-web:0.9.2: registry.cn-beijing.aliyuncs.com/cxq/dify-web:0.9.2
-langgenius/dify-web:0.11.0: registry.cn-beijing.aliyuncs.com/cxq/dify-web:0.11.0
-langgenius/dify-web:1.1.3: registry.cn-beijing.aliyuncs.com/cxq/dify-web:1.1.3
-langgenius/dify-sandbox:0.2.9: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.9
-langgenius/dify-sandbox:0.2.10: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.10
-langgenius/dify-sandbox:0.2.11: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.11
-langgenius/dify-plugin-daemon:0.0.3-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.3-local
-langgenius/dify-plugin-daemon:0.0.6-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.6-local
-nginx:latest: registry.cn-beijing.aliyuncs.com/cxq/nginx:latest
-tensorchord/pgvecto-rs:pg16-v0.3.0: registry.cn-beijing.aliyuncs.com/cxq/tensorchord_pgvecto-rs:pg16-v0.3.0
-pgvector/pgvector:pg16: registry.cn-beijing.aliyuncs.com/cxq/pgvector_pgvector:pg16
-langgenius/qdrant:v1.7.3: registry.cn-beijing.aliyuncs.com/cxq/langgenius_qdrant:v1.7.3
-semitechnologies/weaviate:1.19.0: registry.cn-beijing.aliyuncs.com/cxq/semitechnologies_weaviate:1.19.0
-certbot/certbot:latest: registry.cn-beijing.aliyuncs.com/cxq/certbot_certbot:latest
-ubuntu/squid:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu_squid:latest
-postgres:15-alpine: registry.cn-beijing.aliyuncs.com/cxq/postgres:15-alpine
-redis:6-alpine: registry.cn-beijing.aliyuncs.com/cxq/redis:6-alpine
-ghcr.io/chroma-core/chroma:0.5.1: registry.cn-beijing.aliyuncs.com/cxq/chroma-core_chroma:0.5.1
-container-registry.oracle.com/database/free:latest: registry.cn-beijing.aliyuncs.com/cxq/oracle_free:latest
-quay.io/coreos/etcd:v3.5.5: registry.cn-beijing.aliyuncs.com/cxq/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z: registry.cn-beijing.aliyuncs.com/cxq/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.3.1: registry.cn-beijing.aliyuncs.com/cxq/milvusdb_milvus:v2.3.1
-opensearchproject/opensearch:latest: registry.cn-beijing.aliyuncs.com/cxq/opensearchproject_opensearch:latest
-opensearchproject/opensearch-dashboards:latest: registry.cn-beijing.aliyuncs.com/cxq/opensearchproject_opensearch-dashboards:latest
-myscale/myscaledb:1.6.4: registry.cn-beijing.aliyuncs.com/cxq/myscale_myscaledb:1.6.4
-docker.elastic.co/elasticsearch/elasticsearch:8.15.1: registry.cn-beijing.aliyuncs.com/cxq/elasticsearch:8.15.1
-docker.elastic.co/kibana/kibana:8.15.1: registry.cn-beijing.aliyuncs.com/cxq/kibana:8.15.1
-downloads.unstructured.io/unstructured-io/unstructured-api:latest: registry.cn-beijing.aliyuncs.com/cxq/unstructured-io_unstructured-api:latest
+# langgenius/dify-api:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.8.3
+# langgenius/dify-api:0.9.2: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.9.2
+# langgenius/dify-api:0.11.0: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.11.0
+# langgenius/dify-api:1.1.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:1.1.3
+# langgenius/dify-web:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-web:0.8.3
+# langgenius/dify-web:0.9.2: registry.cn-beijing.aliyuncs.com/cxq/dify-web:0.9.2
+# langgenius/dify-web:0.11.0: registry.cn-beijing.aliyuncs.com/cxq/dify-web:0.11.0
+# langgenius/dify-web:1.1.3: registry.cn-beijing.aliyuncs.com/cxq/dify-web:1.1.3
+# langgenius/dify-sandbox:0.2.9: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.9
+# langgenius/dify-sandbox:0.2.10: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.10
+# langgenius/dify-sandbox:0.2.11: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.11
+# langgenius/dify-plugin-daemon:0.0.3-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.3-local
+# langgenius/dify-plugin-daemon:0.0.6-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.6-local
+# tensorchord/pgvecto-rs:pg16-v0.3.0: registry.cn-beijing.aliyuncs.com/cxq/tensorchord_pgvecto-rs:pg16-v0.3.0
+# pgvector/pgvector:pg16: registry.cn-beijing.aliyuncs.com/cxq/pgvector_pgvector:pg16
+# langgenius/qdrant:v1.7.3: registry.cn-beijing.aliyuncs.com/cxq/langgenius_qdrant:v1.7.3
+# semitechnologies/weaviate:1.19.0: registry.cn-beijing.aliyuncs.com/cxq/semitechnologies_weaviate:1.19.0
+# certbot/certbot:latest: registry.cn-beijing.aliyuncs.com/cxq/certbot_certbot:latest
+# ubuntu/squid:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu_squid:latest
+# postgres:15-alpine: registry.cn-beijing.aliyuncs.com/cxq/postgres:15-alpine
+# redis:6-alpine: registry.cn-beijing.aliyuncs.com/cxq/redis:6-alpine
+# ghcr.io/chroma-core/chroma:0.5.1: registry.cn-beijing.aliyuncs.com/cxq/chroma-core_chroma:0.5.1
+# container-registry.oracle.com/database/free:latest: registry.cn-beijing.aliyuncs.com/cxq/oracle_free:latest
+# quay.io/coreos/etcd:v3.5.5: registry.cn-beijing.aliyuncs.com/cxq/etcd:v3.5.5
+# minio/minio:RELEASE.2023-03-20T20-16-18Z: registry.cn-beijing.aliyuncs.com/cxq/minio:RELEASE.2023-03-20T20-16-18Z
+# milvusdb/milvus:v2.3.1: registry.cn-beijing.aliyuncs.com/cxq/milvusdb_milvus:v2.3.1
+# opensearchproject/opensearch:latest: registry.cn-beijing.aliyuncs.com/cxq/opensearchproject_opensearch:latest
+# opensearchproject/opensearch-dashboards:latest: registry.cn-beijing.aliyuncs.com/cxq/opensearchproject_opensearch-dashboards:latest
+# myscale/myscaledb:1.6.4: registry.cn-beijing.aliyuncs.com/cxq/myscale_myscaledb:1.6.4
+# docker.elastic.co/elasticsearch/elasticsearch:8.15.1: registry.cn-beijing.aliyuncs.com/cxq/elasticsearch:8.15.1
+# docker.elastic.co/kibana/kibana:8.15.1: registry.cn-beijing.aliyuncs.com/cxq/kibana:8.15.1
+# downloads.unstructured.io/unstructured-io/unstructured-api:latest: registry.cn-beijing.aliyuncs.com/cxq/unstructured-io_unstructured-api:latest
 
 # xinference
-xprobe/xinference:v1.2.2: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v1.2.2
-xprobe/xinference:v1.0.1: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v1.0.1
-xprobe/xinference:v0.15.2: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v0.15.2
+# xprobe/xinference:v1.2.2: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v1.2.2
+# xprobe/xinference:v1.0.1: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v1.0.1
+# xprobe/xinference:v0.15.2: registry.cn-beijing.aliyuncs.com/cxq/xprobe_xinference:v0.15.2
 
 # ollama
-ollama/ollama:0.5.7: registry.cn-beijing.aliyuncs.com/cxq/ollama:0.5.7
+# ollama/ollama:0.5.7: registry.cn-beijing.aliyuncs.com/cxq/ollama:0.5.7
 
 # vllm
-vllm/vllm-openai:v0.7.2: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.7.2
+# vllm/vllm-openai:v0.7.2: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.7.2
 
 # searchxng
-docker.io/library/caddy:2-alpine: registry.cn-beijing.aliyuncs.com/cxq/library_caddy:2-alpine
-docker.io/valkey/valkey:8-alpine: registry.cn-beijing.aliyuncs.com/cxq/valkey_valkey:8-alpine
-docker.io/searxng/searxng:2024.9.28-f95a5effc: registry.cn-beijing.aliyuncs.com/cxq/searxng:2024.9.28-f95a5effc
+# docker.io/library/caddy:2-alpine: registry.cn-beijing.aliyuncs.com/cxq/library_caddy:2-alpine
+# docker.io/valkey/valkey:8-alpine: registry.cn-beijing.aliyuncs.com/cxq/valkey_valkey:8-alpine
+# docker.io/searxng/searxng:2024.9.28-f95a5effc: registry.cn-beijing.aliyuncs.com/cxq/searxng:2024.9.28-f95a5effc
 
-quay.io/minio/minio:RELEASE.2024-10-13T13-34-11Z: registry.cn-beijing.aliyuncs.com/cxq/minio:RELEASE.2024-10-13T13-34-11Z
+# minio
+# quay.io/minio/minio:RELEASE.2024-10-13T13-34-11Z: registry.cn-beijing.aliyuncs.com/cxq/minio:RELEASE.2024-10-13T13-34-11Z
 
-nvcr.io/nvidia/k8s-device-plugin:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/nvidia_k8s-device-plugin:v0.17.0
+# k8s-device-plugin
+# nvcr.io/nvidia/k8s-device-plugin:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/nvidia_k8s-device-plugin:v0.17.0
 
 # kubeasz
-easzlab/kubeasz:3.6.5: registry.cn-beijing.aliyuncs.com/cxq/easzlab_kubeasz:3.6.5
+# easzlab/kubeasz:3.6.5: registry.cn-beijing.aliyuncs.com/cxq/easzlab_kubeasz:3.6.5
 
 # es
-elasticsearch:6.8.14: registry.cn-beijing.aliyuncs.com/cxq/elasticsearch:6.8.14
-kibana:6.8.14: registry.cn-beijing.aliyuncs.com/cxq/kibana:6.8.14
+# elasticsearch:6.8.14: registry.cn-beijing.aliyuncs.com/cxq/elasticsearch:6.8.14
+# kibana:6.8.14: registry.cn-beijing.aliyuncs.com/cxq/kibana:6.8.14
 
 # go
-golang:1.24.1-bookworm: registry.cn-beijing.aliyuncs.com/cxq/golang:1.24.1-bookworm
+# golang:1.24.1-bookworm: registry.cn-beijing.aliyuncs.com/cxq/golang:1.24.1-bookworm
 
 # crawl4ai
-unclecode/crawl4ai:0.6.0-r2: registry.cn-beijing.aliyuncs.com/cxq/unclecode_crawl4ai:0.6.0-r2
+# unclecode/crawl4ai:0.6.0-r2: registry.cn-beijing.aliyuncs.com/cxq/unclecode_crawl4ai:0.6.0-r2
 
 # cuda
-nvidia/cuda:12.1.0-base-ubuntu22.04: registry.cn-beijing.aliyuncs.com/cxq/cuda:12.1.0-base-ubuntu22.04
+# nvidia/cuda:12.1.0-base-ubuntu22.04: registry.cn-beijing.aliyuncs.com/cxq/cuda:12.1.0-base-ubuntu22.04
