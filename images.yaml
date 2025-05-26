@@ -4,7 +4,7 @@
 # registry:2.8.3: registry.cn-beijing.aliyuncs.com/cxq/registry:2.8.3
 
 #jenkins
-jenkins/inbound-agent:3283.v92c105e0f819-1: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3283.v92c105e0f819-1
+# jenkins/inbound-agent:3283.v92c105e0f819-1: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3283.v92c105e0f819-1
 
 # dify
 # langgenius/dify-api:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.8.3
@@ -77,3 +77,6 @@ jenkins/inbound-agent:3283.v92c105e0f819-1: registry.cn-beijing.aliyuncs.com/cxq
 
 # cuda
 # nvidia/cuda:12.1.0-base-ubuntu22.04: registry.cn-beijing.aliyuncs.com/cxq/cuda:12.1.0-base-ubuntu22.04
+
+# qdrant
+qdrant/qdrant:v1.14.1 registry.cn-beijing.aliyuncs.com/cxq/qdrant:v1.14.1
