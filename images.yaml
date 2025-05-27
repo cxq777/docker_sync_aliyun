@@ -79,4 +79,4 @@
 # nvidia/cuda:12.1.0-base-ubuntu22.04: registry.cn-beijing.aliyuncs.com/cxq/cuda:12.1.0-base-ubuntu22.04
 
 # qdrant
-qdrant/qdrant:v1.14.1 registry.cn-beijing.aliyuncs.com/cxq/qdrant:v1.14.1
+qdrant/qdrant:v1.14.1: registry.cn-beijing.aliyuncs.com/cxq/qdrant:v1.14.1
