@@ -79,4 +79,8 @@
 # nvidia/cuda:12.1.0-base-ubuntu22.04: registry.cn-beijing.aliyuncs.com/cxq/cuda:12.1.0-base-ubuntu22.04
 
 # qdrant
-qdrant/qdrant:v1.14.1: registry.cn-beijing.aliyuncs.com/cxq/qdrant:v1.14.1
+# qdrant/qdrant:v1.14.1: registry.cn-beijing.aliyuncs.com/cxq/qdrant:v1.14.1
+
+# ragflow
+infiniflow/ragflow:v0.19.0-slim: registry.cn-beijing.aliyuncs.com/cxq/infiniflow_ragflow:v0.19.0-slim
+infiniflow/infinity:v0.6.0-dev3: registry.cn-beijing.aliyuncs.com/cxq/infiniflow_infinity:v0.6.0-dev3
