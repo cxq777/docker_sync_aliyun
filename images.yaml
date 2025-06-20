@@ -18,10 +18,10 @@
 # langgenius/dify-sandbox:0.2.9: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.9
 # langgenius/dify-sandbox:0.2.10: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.10
 # langgenius/dify-sandbox:0.2.11: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.11
-langgenius/dify-sandbox:0.2.12: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.12
+# langgenius/dify-sandbox:0.2.12: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.12
 # langgenius/dify-plugin-daemon:0.0.3-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.3-local
 # langgenius/dify-plugin-daemon:0.0.6-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.6-local
-langgenius/dify-plugin-daemon:0.1.1-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.1.1-local
+# langgenius/dify-plugin-daemon:0.1.1-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.1.1-local
 # tensorchord/pgvecto-rs:pg16-v0.3.0: registry.cn-beijing.aliyuncs.com/cxq/tensorchord_pgvecto-rs:pg16-v0.3.0
 # pgvector/pgvector:pg16: registry.cn-beijing.aliyuncs.com/cxq/pgvector_pgvector:pg16
 # langgenius/qdrant:v1.7.3: registry.cn-beijing.aliyuncs.com/cxq/langgenius_qdrant:v1.7.3
@@ -86,3 +86,6 @@ langgenius/dify-plugin-daemon:0.1.1-local: registry.cn-beijing.aliyuncs.com/cxq/
 # ragflow
 # infiniflow/ragflow:v0.19.0-slim: registry.cn-beijing.aliyuncs.com/cxq/infiniflow_ragflow:v0.19.0-slim
 # infiniflow/infinity:v0.6.0-dev3: registry.cn-beijing.aliyuncs.com/cxq/infiniflow_infinity:v0.6.0-dev3
+
+# node
+node:22.16.0-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:22.16.0-bookworm
