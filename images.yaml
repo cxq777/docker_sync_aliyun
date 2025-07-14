@@ -88,4 +88,7 @@
 # infiniflow/infinity:v0.6.0-dev3: registry.cn-beijing.aliyuncs.com/cxq/infiniflow_infinity:v0.6.0-dev3
 
 # node
-node:22.16.0-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:22.16.0-bookworm
+# node:22.16.0-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:22.16.0-bookworm
+
+# pandoc
+pandoc/extra:3.7-ubuntu: registry.cn-beijing.aliyuncs.com/cxq/pandoc_extra:3.7-ubuntu
