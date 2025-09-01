@@ -94,5 +94,8 @@
 # pandoc/extra:3.7-ubuntu: registry.cn-beijing.aliyuncs.com/cxq/pandoc_extra:3.7-ubuntu
 
 # sglang
-lmsysorg/sglang:v0.4.8.post1-cu126: registry.cn-beijing.aliyuncs.com/cxq/lmsysorg_sglang:v0.4.8.post1-cu126
+# lmsysorg/sglang:v0.4.8.post1-cu126: registry.cn-beijing.aliyuncs.com/cxq/lmsysorg_sglang:v0.4.8.post1-cu126
+
+# metacubex/mihomo
+metacubex/mihomo:v1.19.13: registry.cn-beijing.aliyuncs.com/cxq/metacubex_mihomo:v1.19.13
 
