@@ -97,5 +97,8 @@
 # lmsysorg/sglang:v0.4.8.post1-cu126: registry.cn-beijing.aliyuncs.com/cxq/lmsysorg_sglang:v0.4.8.post1-cu126
 
 # metacubex/mihomo
-metacubex/mihomo:v1.19.13: registry.cn-beijing.aliyuncs.com/cxq/metacubex_mihomo:v1.19.13
+# metacubex/mihomo:v1.19.13: registry.cn-beijing.aliyuncs.com/cxq/metacubex_mihomo:v1.19.13
+
+# portainer/portainer-ce
+portainer/portainer-ce:2.33.1: registry.cn-beijing.aliyuncs.com/cxq/portainer_portainer-ce:2.33.1
 
