@@ -102,3 +102,5 @@
 # portainer/portainer-ce
 portainer/portainer-ce:2.33.1: registry.cn-beijing.aliyuncs.com/cxq/portainer_portainer-ce:2.33.1
 
+# openjdk
+openjdk:7-jdk-alpine3.9: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-alpine3.9
