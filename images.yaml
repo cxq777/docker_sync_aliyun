@@ -100,7 +100,8 @@
 # metacubex/mihomo:v1.19.13: registry.cn-beijing.aliyuncs.com/cxq/metacubex_mihomo:v1.19.13
 
 # portainer/portainer-ce
-portainer/portainer-ce:2.33.1: registry.cn-beijing.aliyuncs.com/cxq/portainer_portainer-ce:2.33.1
+# portainer/portainer-ce:2.33.1: registry.cn-beijing.aliyuncs.com/cxq/portainer_portainer-ce:2.33.1
 
 # openjdk
-openjdk:7-jdk-alpine3.9: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-alpine3.9
+# openjdk:7-jdk-alpine3.9: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-alpine3.9
+openjdk:7-jdk-jessie: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-jessie
