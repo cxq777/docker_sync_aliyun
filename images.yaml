@@ -111,3 +111,6 @@ mysql:8.0.43-bookworm: registry.cn-beijing.aliyuncs.com/cxq/mysql:8.0.43-bookwor
 
 # tomcat
 tomcat:7.0.94-jre7-alpine: registry.cn-beijing.aliyuncs.com/cxq/tomcat:7.0.94-jre7-alpine
+
+# node-red
+nodered/node-red:4.1.1-22: registry.cn-beijing.aliyuncs.com/cxq/nodered_node-red:4.1.1-22
