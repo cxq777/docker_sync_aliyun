@@ -26,6 +26,7 @@
 # pgvector/pgvector:pg16: registry.cn-beijing.aliyuncs.com/cxq/pgvector_pgvector:pg16
 # langgenius/qdrant:v1.7.3: registry.cn-beijing.aliyuncs.com/cxq/langgenius_qdrant:v1.7.3
 # semitechnologies/weaviate:1.19.0: registry.cn-beijing.aliyuncs.com/cxq/semitechnologies_weaviate:1.19.0
+semitechnologies/weaviate:1.32.0: registry.cn-beijing.aliyuncs.com/cxq/semitechnologies_weaviate:1.32.0
 # certbot/certbot:latest: registry.cn-beijing.aliyuncs.com/cxq/certbot_certbot:latest
 # ubuntu/squid:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu_squid:latest
 # postgres:15-alpine: registry.cn-beijing.aliyuncs.com/cxq/postgres:15-alpine
@@ -107,10 +108,10 @@
 # openjdk:7-jdk-jessie: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-jessie
 
 # mysql
-mysql:8.0.43-bookworm: registry.cn-beijing.aliyuncs.com/cxq/mysql:8.0.43-bookworm
+# mysql:8.0.43-bookworm: registry.cn-beijing.aliyuncs.com/cxq/mysql:8.0.43-bookworm
 
 # tomcat
-tomcat:7.0.94-jre7-alpine: registry.cn-beijing.aliyuncs.com/cxq/tomcat:7.0.94-jre7-alpine
+# tomcat:7.0.94-jre7-alpine: registry.cn-beijing.aliyuncs.com/cxq/tomcat:7.0.94-jre7-alpine
 
 # node-red
-nodered/node-red:4.1.1-22: registry.cn-beijing.aliyuncs.com/cxq/nodered_node-red:4.1.1-22
+# nodered/node-red:4.1.1-22: registry.cn-beijing.aliyuncs.com/cxq/nodered_node-red:4.1.1-22
