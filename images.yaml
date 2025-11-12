@@ -24,12 +24,13 @@
 # langgenius/dify-plugin-daemon:0.0.3-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.3-local
 # langgenius/dify-plugin-daemon:0.0.6-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.6-local
 # langgenius/dify-plugin-daemon:0.1.1-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.1.1-local
-langgenius/dify-plugin-daemon:0.3.0-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.3.0-local
+# langgenius/dify-plugin-daemon:0.3.0-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.3.0-local
 
 # tensorchord/pgvecto-rs:pg16-v0.3.0: registry.cn-beijing.aliyuncs.com/cxq/tensorchord_pgvecto-rs:pg16-v0.3.0
 # pgvector/pgvector:pg16: registry.cn-beijing.aliyuncs.com/cxq/pgvector_pgvector:pg16
 # langgenius/qdrant:v1.7.3: registry.cn-beijing.aliyuncs.com/cxq/langgenius_qdrant:v1.7.3
 # semitechnologies/weaviate:1.19.0: registry.cn-beijing.aliyuncs.com/cxq/semitechnologies_weaviate:1.19.0
+semitechnologies/weaviate:1.27.0: registry.cn-beijing.aliyuncs.com/cxq/semitechnologies_weaviate:1.27.0
 # semitechnologies/weaviate:1.32.0: registry.cn-beijing.aliyuncs.com/cxq/semitechnologies_weaviate:1.32.0
 # certbot/certbot:latest: registry.cn-beijing.aliyuncs.com/cxq/certbot_certbot:latest
 # ubuntu/squid:latest: registry.cn-beijing.aliyuncs.com/cxq/ubuntu_squid:latest
