@@ -4,8 +4,9 @@
 # registry:2.8.3: registry.cn-beijing.aliyuncs.com/cxq/registry:2.8.3
 
 #jenkins
-# jenkins/inbound-agent:3283.v92c105e0f819-1: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3283.v92c105e0f819-1
 # jenkins/jenkins:2.542: registry.cn-beijing.aliyuncs.com/cxq/jenkins_jenkins:2.542
+# jenkins/inbound-agent:3283.v92c105e0f819-1: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3283.v92c105e0f819-1
+jenkins/inbound-agent:3355.v388858a_47b_33-4: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3355.v388858a_47b_33-4
 
 # dify
 # langgenius/dify-api:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.8.3
@@ -101,7 +102,7 @@
 
 # node
 # node:22.16.0-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:22.16.0-bookworm
-node:24-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:24
+# node:24-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:24
 
 # pandoc
 # pandoc/extra:3.7-ubuntu: registry.cn-beijing.aliyuncs.com/cxq/pandoc_extra:3.7-ubuntu
@@ -121,7 +122,7 @@ node:24-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:24
 
 # eclipse-temurin openjdk
 # eclipse-temurin:23-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:23-jdk
-eclipse-temurin:25-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:25-jdk
+# eclipse-temurin:25-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:25-jdk
 
 # mysql
 # mysql:8.0.43-bookworm: registry.cn-beijing.aliyuncs.com/cxq/mysql:8.0.43-bookworm
