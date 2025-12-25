@@ -134,5 +134,5 @@
 # nodered/node-red:4.1.1-22: registry.cn-beijing.aliyuncs.com/cxq/nodered_node-red:4.1.1-22
 
 # maven
-maven:3-eclipse-temurin-21: registry.cn-beijing.aliyuncs.com/cxq/maven:3
-# maven:3-eclipse-temurin-25: registry.cn-beijing.aliyuncs.com/cxq/maven:3
+maven:3-eclipse-temurin-21: registry.cn-beijing.aliyuncs.com/cxq/maven:3-jdk21
+maven:3-eclipse-temurin-25: registry.cn-beijing.aliyuncs.com/cxq/maven:3-jdk25
