@@ -6,7 +6,7 @@
 #jenkins
 # jenkins/jenkins:2.542: registry.cn-beijing.aliyuncs.com/cxq/jenkins_jenkins:2.542
 # jenkins/inbound-agent:3283.v92c105e0f819-1: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3283.v92c105e0f819-1
-jenkins/inbound-agent:3355.v388858a_47b_33-4: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3355.v388858a_47b_33-4
+# jenkins/inbound-agent:3355.v388858a_47b_33-4: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3355.v388858a_47b_33-4
 
 # dify
 # langgenius/dify-api:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.8.3
@@ -132,3 +132,6 @@ jenkins/inbound-agent:3355.v388858a_47b_33-4: registry.cn-beijing.aliyuncs.com/c
 
 # node-red
 # nodered/node-red:4.1.1-22: registry.cn-beijing.aliyuncs.com/cxq/nodered_node-red:4.1.1-22
+
+# maven
+maven:3-eclipse-temurin-25: registry.cn-beijing.aliyuncs.com/cxq/maven:3-eclipse-temurin-25
