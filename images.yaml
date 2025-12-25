@@ -5,7 +5,7 @@
 
 #jenkins
 # jenkins/inbound-agent:3283.v92c105e0f819-1: registry.cn-beijing.aliyuncs.com/cxq/jenkins-inbound-agent:3283.v92c105e0f819-1
-jenkins/jenkins:2.542: registry.cn-beijing.aliyuncs.com/cxq/jenkins_jenkins:2.542
+# jenkins/jenkins:2.542: registry.cn-beijing.aliyuncs.com/cxq/jenkins_jenkins:2.542
 
 # dify
 # langgenius/dify-api:0.8.3: registry.cn-beijing.aliyuncs.com/cxq/dify-api:0.8.3
@@ -117,6 +117,9 @@ jenkins/jenkins:2.542: registry.cn-beijing.aliyuncs.com/cxq/jenkins_jenkins:2.54
 # openjdk
 # openjdk:7-jdk-alpine3.9: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-alpine3.9
 # openjdk:7-jdk-jessie: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-jessie
+
+# eclipse-temurin openjdk
+eclipse-temurin:23-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:23-jdk
 
 # mysql
 # mysql:8.0.43-bookworm: registry.cn-beijing.aliyuncs.com/cxq/mysql:8.0.43-bookworm
