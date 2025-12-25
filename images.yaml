@@ -101,6 +101,7 @@
 
 # node
 # node:22.16.0-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:22.16.0-bookworm
+node:24-bookworm: registry.cn-beijing.aliyuncs.com/cxq/node:24
 
 # pandoc
 # pandoc/extra:3.7-ubuntu: registry.cn-beijing.aliyuncs.com/cxq/pandoc_extra:3.7-ubuntu
@@ -119,7 +120,8 @@
 # openjdk:7-jdk-jessie: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-jessie
 
 # eclipse-temurin openjdk
-eclipse-temurin:23-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:23-jdk
+# eclipse-temurin:23-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:23-jdk
+eclipse-temurin:25-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:25-jdk
 
 # mysql
 # mysql:8.0.43-bookworm: registry.cn-beijing.aliyuncs.com/cxq/mysql:8.0.43-bookworm
