@@ -121,7 +121,7 @@
 # openjdk:7-jdk-jessie: registry.cn-beijing.aliyuncs.com/cxq/openjdk:7-jdk-jessie
 
 # eclipse-temurin openjdk
-# eclipse-temurin:23-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:23-jdk
+eclipse-temurin:21-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:21-jdk
 # eclipse-temurin:25-jdk: registry.cn-beijing.aliyuncs.com/cxq/eclipse-temurin:25-jdk
 
 # mysql
