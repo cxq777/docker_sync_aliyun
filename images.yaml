@@ -86,6 +86,7 @@
 
 # go
 # golang:1.24.1-bookworm: registry.cn-beijing.aliyuncs.com/cxq/golang:1.24.1-bookworm
+golang:1.20.14-bookworm: registry.cn-beijing.aliyuncs.com/cxq/golang:1.20.14-bookworm
 
 # crawl4ai
 # unclecode/crawl4ai:0.6.0-r2: registry.cn-beijing.aliyuncs.com/cxq/unclecode_crawl4ai:0.6.0-r2
@@ -138,9 +139,9 @@
 # maven:3-eclipse-temurin-25: registry.cn-beijing.aliyuncs.com/cxq/maven:3-jdk25
 
 # frps
-fatedier/frps:v0.60.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frps:v0.60.0
-fatedier/frpc:v0.60.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frpc:v0.60.0
-fatedier/frps:v0.66.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frps:v0.66.0
-fatedier/frpc:v0.66.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frpc:v0.66.0
+# fatedier/frps:v0.60.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frps:v0.60.0
+# fatedier/frpc:v0.60.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frpc:v0.60.0
+# fatedier/frps:v0.66.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frps:v0.66.0
+# fatedier/frpc:v0.66.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frpc:v0.66.0
 
 
