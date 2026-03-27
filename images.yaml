@@ -65,7 +65,7 @@
 # vllm
 # vllm/vllm-openai:v0.7.2: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.7.2
 # vllm/vllm-openai:v0.11.2: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.11.2
-vllm/vllm-openai:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.17.0
+# vllm/vllm-openai:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.17.0
 
 # searchxng
 # docker.io/library/caddy:2-alpine: registry.cn-beijing.aliyuncs.com/cxq/library_caddy:2-alpine
@@ -144,5 +144,8 @@ vllm/vllm-openai:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.17
 # fatedier/frpc:v0.60.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frpc:v0.60.0
 # fatedier/frps:v0.66.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frps:v0.66.0
 # fatedier/frpc:v0.66.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frpc:v0.66.0
+
+# metabase
+metabase/metabase:v0.47.2: registry.cn-beijing.aliyuncs.com/cxq/metabase:v0.47.2
 
 
