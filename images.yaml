@@ -146,6 +146,8 @@
 # fatedier/frpc:v0.66.0: registry.cn-beijing.aliyuncs.com/cxq/fatedier_frpc:v0.66.0
 
 # metabase
-metabase/metabase:v0.47.2: registry.cn-beijing.aliyuncs.com/cxq/metabase:v0.47.2
+# metabase/metabase:v0.47.2: registry.cn-beijing.aliyuncs.com/cxq/metabase:v0.47.2
 
+# ttyd
+# tsl0922/ttyd:1.7.8: registry.cn-beijing.aliyuncs.com/cxq/ttyd:1.7.8
 
