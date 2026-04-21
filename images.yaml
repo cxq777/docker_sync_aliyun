@@ -24,6 +24,7 @@
 # langgenius/dify-sandbox:0.2.10: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.10
 # langgenius/dify-sandbox:0.2.11: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.11
 # langgenius/dify-sandbox:0.2.12: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.12
+langgenius/dify-sandbox:0.2.14: registry.cn-beijing.aliyuncs.com/cxq/dify-sandbox:0.2.14
 
 # langgenius/dify-plugin-daemon:0.0.3-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.3-local
 # langgenius/dify-plugin-daemon:0.0.6-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.0.6-local
@@ -31,6 +32,7 @@
 # langgenius/dify-plugin-daemon:0.3.0-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.3.0-local
 # langgenius/dify-plugin-daemon:0.4.1-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.4.1-local
 # langgenius/dify-plugin-daemon:0.4.1-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.5.1-local
+langgenius/dify-plugin-daemon:0.5.3-local: registry.cn-beijing.aliyuncs.com/cxq/dify-plugin-daemon:0.5.3-local
 
 # tensorchord/pgvecto-rs:pg16-v0.3.0: registry.cn-beijing.aliyuncs.com/cxq/tensorchord_pgvecto-rs:pg16-v0.3.0
 # pgvector/pgvector:pg16: registry.cn-beijing.aliyuncs.com/cxq/pgvector_pgvector:pg16
@@ -66,7 +68,7 @@
 # vllm/vllm-openai:v0.7.2: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.7.2
 # vllm/vllm-openai:v0.11.2: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.11.2
 # vllm/vllm-openai:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.17.0
-vllm/vllm-openai:gemma4-cu130: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:gemma4-cu130
+# vllm/vllm-openai:gemma4-cu130: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:gemma4-cu130
 
 # searchxng
 # docker.io/library/caddy:2-alpine: registry.cn-beijing.aliyuncs.com/cxq/library_caddy:2-alpine
