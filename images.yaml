@@ -69,7 +69,7 @@
 # vllm/vllm-openai:v0.11.2: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.11.2
 # vllm/vllm-openai:v0.17.0: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.17.0
 # vllm/vllm-openai:gemma4-cu130: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:gemma4-cu130
-vllm/vllm-openai:v0.20.0: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.20.0
+# vllm/vllm-openai:v0.20.0: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.20.0
 
 # searchxng
 # docker.io/library/caddy:2-alpine: registry.cn-beijing.aliyuncs.com/cxq/library_caddy:2-alpine
@@ -154,4 +154,7 @@ vllm/vllm-openai:v0.20.0: registry.cn-beijing.aliyuncs.com/cxq/vllm-openai:v0.20
 
 # ttyd
 # tsl0922/ttyd:1.7.8: registry.cn-beijing.aliyuncs.com/cxq/ttyd:1.7.8
+
+# imapsync
+gilleslamiral/imapsync:2.319: registry.cn-beijing.aliyuncs.com/cxq/gilleslamiral_imapsync:2.319
 
