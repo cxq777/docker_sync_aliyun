@@ -145,6 +145,10 @@ langgenius/dify-agent-backend:1.16.0: registry.cn-beijing.aliyuncs.com/cxq/dify-
 # mysql
 # mysql:8.0.43-bookworm: registry.cn-beijing.aliyuncs.com/cxq/mysql:8.0.43-bookworm
 
+# postgres
+postgres:12-bookworm: registry.cn-beijing.aliyuncs.com/cxq/postgres:12-bookworm
+postgres:18-bookworm: registry.cn-beijing.aliyuncs.com/cxq/postgres:18-bookworm
+
 # tomcat
 # tomcat:7.0.94-jre7-alpine: registry.cn-beijing.aliyuncs.com/cxq/tomcat:7.0.94-jre7-alpine
 
